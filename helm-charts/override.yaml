@@ -3,3 +3,4 @@ key:
     - cluster: blue
       overrideTargetRevision: 19.0.1
     - cluster: green
+      overrideTargetRevision: 18.3.6
