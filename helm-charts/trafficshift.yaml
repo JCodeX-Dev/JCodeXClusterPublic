@@ -1,0 +1,6 @@
+key:
+  components:
+    - cluster: blue
+      env: qa
+    - cluster:
+      env: uat
