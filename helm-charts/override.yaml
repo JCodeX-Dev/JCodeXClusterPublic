@@ -1,6 +1,6 @@
 key:
   components:
     - cluster: blue
-      overrideTargetRevision: 19.0.1
+      overrideTargetRevision: 18.3.6
     - cluster: green
       # overrideTargetRevision: 18.3.6
