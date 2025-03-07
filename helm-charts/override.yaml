@@ -2,5 +2,5 @@ environmentType: blue
 clusterList:
     - cluster: blue
       overrideTargetRevision: 18.3.6
-    - cluster: green
-      overrideTargetRevision: 18.3.6
+    # - cluster: green
+    #   overrideTargetRevision: 18.3.6
