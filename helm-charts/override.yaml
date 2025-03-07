@@ -1,5 +1,5 @@
 clusterList:
-    - clusterRef: blue
+    - cluster: blue
       overrideTargetRevision: 18.3.6
-    - clusterRef: green
+    - cluster: green
       overrideTargetRevision: 18.3.6
