@@ -1,5 +1,4 @@
-key:
-  components:
+clusterList:
     - cluster: blue
       overrideTargetRevision: 18.3.6
     - cluster: green
