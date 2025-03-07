@@ -2,5 +2,5 @@ key:
   components:
     - cluster: blue
       env: qa
-    - cluster:
+    - cluster: green
       env: uat
