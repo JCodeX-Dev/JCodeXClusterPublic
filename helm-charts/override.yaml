@@ -1,5 +1,5 @@
 environmentType: blue
-pause: true
+pause: "true"
 clusterList:
      - cluster: blue
        overrideTargetRevision: 18.3.6
