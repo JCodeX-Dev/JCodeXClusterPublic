@@ -1,4 +1,4 @@
-environmentType: blue
+environmentType: green
 pause: "current"
 clusterList:
      - cluster: blue
