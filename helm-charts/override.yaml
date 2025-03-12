@@ -6,3 +6,4 @@ clusterList:
        env: live
      - cluster: green
        overrideTargetRevision: 18.3.6
+       env: live
