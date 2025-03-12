@@ -1,5 +1,5 @@
 environmentType: 
- - cluster: green
+ - cluster: "green"
 pause: "current"
 clusterList:
      - cluster: blue
